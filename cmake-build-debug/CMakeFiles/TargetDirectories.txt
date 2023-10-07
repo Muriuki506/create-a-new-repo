@@ -1,0 +1,3 @@
+/home/user/CLionProjects/count_to_10000/cmake-build-debug/CMakeFiles/count_to_10000.dir
+/home/user/CLionProjects/count_to_10000/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/count_to_10000/cmake-build-debug/CMakeFiles/rebuild_cache.dir
